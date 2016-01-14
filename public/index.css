@@ -1,0 +1,20 @@
+#app {
+	font-size: 200%;
+}
+
+.container {
+	display: flex;
+}
+
+.leftpanel {
+	flex: 1;
+}
+
+.rightpanel {
+	flex: 3;
+}
+
+.item {
+	text-decoration: underline;
+	cursor: pointer;
+}
